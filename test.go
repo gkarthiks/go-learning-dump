@@ -10,7 +10,7 @@ import (
 
 func main() {
 	fmt.Println("HAI")	
-	s3Client, err := minio.New("sgs3api.blackrock.com:8082", "B7JWHO877EDAMEO3LRPQ", "0SUCwbeb8tnO7vYW5XoNSsg7an1Q9IpLIec96Ybn", true)
+	s3Client, err := minio.New("XXXX", "XXXX", "XXXX", true)
 	if err != nil {
 		log.Fatalln(err)
 	}
