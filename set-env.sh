@@ -1,0 +1,1 @@
+export GOPATH=/Users/kagovind/GSKDeveloper/GoTest/
